@@ -192,7 +192,7 @@ public class Main {
 
             Departamento traumatologia = Departamento.builder()
                     .nombre("Traumatologia")
-                    .especialidad(EspecialidadMedica.GINECOLOGIA)
+                    .especialidad(EspecialidadMedica.TRAUMATOLOGIA)
                     .build();
 
             //Asigno los departamentos al hospital creado
